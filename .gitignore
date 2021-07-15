@@ -1,8 +1,12 @@
-# Created by .ignore support plugin (hsz.mobi)
 .idea
-dist
 .vscode
-tmp
-vendor
+
+dist
+go.mod
+go.sum
 livego
 livego.exe
+livego.yaml
+tmp
+vendor
+
